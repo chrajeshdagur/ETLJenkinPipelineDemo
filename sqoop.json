@@ -1,0 +1,18 @@
+{
+    "hadoopUsername":"hadoopuser",
+    "database":"{DATABASE}",
+	"url": "{ORACLE_URL}"    
+	"sqoopPwd": "{SQOOP_PWD}",
+	"sqoopUsername": "{SQOOP_USR}",
+    "targetDir":"{TARGET_DIR}",
+    "columns":"{COLUMNS}",
+    "numMappers":"{NUM_MAPPERS}",
+    "nullString":"",
+    "nullNonString":"",
+    "deleteTargetDir":"True",
+    "fieldsTerminatedByDelimiter":"\\001",
+    "linesTerminatedByDelimiter":"\\n",
+    "pwdDecrypt":"true",
+    "query":"{QUERY}",
+    "table":"{TABLE_NAME}"
+}

@@ -1,0 +1,6 @@
+{
+  "{TABLE_NAME}": {
+    "location": "gs://{CLOUD_PATH}/*",
+    "schema": "{SCHEMA}"
+  }
+}

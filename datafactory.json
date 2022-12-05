@@ -1,0 +1,16 @@
+{
+	"cloudPath":"{CLOUD_PATH}",
+	"cloudProject":"{CLOUD_PROJECT}",
+	"dataClassification":"CONFIDENTIAL",
+	"dataQualityIndicator":"WIP",
+	"dataUsageIndicator":"IT",
+	"loadFrequency":"DAILY",
+	"name":"{NAME}",
+	"owner":"{OWNER}",
+	"ownerEmail":"{OWNER_EMAIL}",
+	"srcPath":"{TARGET_DIR}",
+	"srcStorageType":"HDFS",
+	"description": "Upload to Google Cloud Storage",
+	"cloudProvider": "GOOGLE",
+	"domain": "{DOMAIN}"
+}
