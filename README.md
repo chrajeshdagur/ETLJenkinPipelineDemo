@@ -1,3 +1,3 @@
 # ETLJenkinScoopPipelineDemo
 
-Template files modified according to your requirement
+Template files download & modify according to your requirement
